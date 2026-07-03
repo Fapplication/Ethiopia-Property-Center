@@ -1,0 +1,6 @@
+{
+  "name": "Ethiopia Property Hub",
+  "description": "Unified full-stack real estate ecosystem for Ethiopia combining a responsive Web Portal, simulated Android App, interactive Telegram Bot, centralized database, and advanced Gemini-AI capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
